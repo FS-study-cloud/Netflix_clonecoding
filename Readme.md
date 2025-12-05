@@ -11,8 +11,6 @@
 - 도커(Docker)를 활용한 배포
 - AWS 환경 이해 및 활용
 
-[역할](%EC%97%AD%ED%95%A0%202c0c9cce983880ecbd16de78173db1a3.csv)
-
 ## 기능적 요구사항
 
 1. 검색창
@@ -27,27 +25,28 @@
 
 ### 메인 화면
 
-![image.png](image.png)
+<img width="1919" height="896" alt="Image" src="https://github.com/user-attachments/assets/54b07389-af56-4069-af61-916df8e24f64" />
+
 
 ### 검색 화면
 
-![image.png](image%201.png)
+<img width="1919" height="909" alt="Image" src="https://github.com/user-attachments/assets/668036fb-64bc-4344-8740-4086834f43a3" />
 
 해당 콘텐츠 O
 
-![image.png](image%202.png)
+<img width="1919" height="902" alt="Image" src="https://github.com/user-attachments/assets/bc9af5a2-0484-4428-82de-5e08243d86a3" />
 
 해당 콘텐츠 X
 
 ### 모달 화면
 
-![image.png](image%203.png)
+<img width="1916" height="910" alt="Image" src="https://github.com/user-attachments/assets/c646ea19-f3ed-4158-bec4-b6beb6a54c9e" />
 
 ### 반응형 화면
 
-![image.png](image%204.png)
+<img width="839" height="904" alt="Image" src="https://github.com/user-attachments/assets/05017ff3-e4c8-4136-8a99-5dfc634032cb" />
 
-![image.png](image%205.png)
+<img width="624" height="904" alt="Image" src="https://github.com/user-attachments/assets/081a85fc-21bf-4fcd-9e67-fb2b78b198d8" />
 
 ## 회고
 
