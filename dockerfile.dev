@@ -1,0 +1,11 @@
+FROM node:16-apline
+
+WORKDIR /urs/src/netflix
+
+COPY package.json ./
+
+RUN npm install 
+
+COPY ./ ./
+
+CMD [ "npm" "run" "start" ]
